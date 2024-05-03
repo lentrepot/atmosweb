@@ -70,12 +70,13 @@ h3{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight:600;
     margin-left: 10px;
+    letter-spacing: 2px;
 }
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 1% 5% 2% 15%;
     padding-left: 15px;
-    line-height: 3vh;
+    line-height: 4vh;
     font-size: 1,5vw;
     border-left: 3px solid white;
 }
@@ -93,7 +94,7 @@ p{
     margin: 0 5px -8px 0;
 }
 #fleche{
-
+    z-index: 10;
     width: 2.5rem;
     position: fixed;
     margin: 30% 0 0 88%;
