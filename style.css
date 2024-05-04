@@ -18,6 +18,7 @@ main{
     border: 1px solid black;
     width: 90%;
     margin-left: 5%;
+ 
 }
 nav li {
    display: inline;
@@ -82,7 +83,7 @@ p{
 }
 
 #porteur{
-    margin-top: 50%;
+    margin-top: 60%;
 }
 .icones{
     position: relative;
@@ -101,15 +102,16 @@ p{
 }
 @media screen and (max-width: 780px)  {
     nav{
-        left: 10%;
+        left: 8%;
     }
     nav li a{
         font-size: 0.8rem;
         padding: 20vh 4px 0 4px;
     }
     h2{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
+
     .icones{
         width: 4rem;
         margin: -20% 0 5% 70%;
